@@ -1,5 +1,8 @@
 console.log("hello");
 
+function themNguoiDung{
+    console.log("dpnguyen themNguoiDung");
+}
 /**
  * Biến
  */
