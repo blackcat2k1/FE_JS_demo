@@ -1,6 +1,6 @@
 console.log("hello");
 
-function themNguoiDung{
+function themNguoiDung() {
     console.log("dpnguyen themNguoiDung");
 }
 /**
